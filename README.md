@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mati_ayush" target="blank"><img src="https://img.shields.io/twitter/follow/mati_ayush?logo=twitter&style=for-the-badge" alt="mati_ayush" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,Dart and i am doing "Google's Cybersecurity Course"**
+- 🌱 I’m currently learning **Flutter,Dart and I am doing "Google's Cybersecurity Course"**
 
 - 📫 How to reach me **www.linkedin.com/in/ayush-mati**
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmati2004&show_icons=true&locale=en" alt="ayushmati2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmati2004&" alt="ayushmati2004" /></p>
-
