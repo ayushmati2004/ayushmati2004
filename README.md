@@ -9,14 +9,14 @@
 
 <p align="left"> <a href="https://twitter.com/mati_ayush" target="blank"><img src="https://img.shields.io/twitter/follow/mati_ayush?logo=twitter&style=for-the-badge" alt="mati_ayush" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,Dart and I am doing "Google's Cybersecurity Course"**
+- 🌱 I’m currently learning **Flutter,Dart and i am doing "Google's Cybersecurity Course"**
 
 - 📫 How to reach me **www.linkedin.com/in/ayush-mati**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mati_ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mati_ayush" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush mati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush mati" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-mati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-mati" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushmati4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushmati4" height="30" width="40" /></a>
 </p>
 
