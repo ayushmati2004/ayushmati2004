@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/mati_ayush" target="blank"><img src="https://img.shields.io/twitter/follow/mati_ayush?logo=twitter&style=for-the-badge" alt="mati_ayush" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,Dart and I am doing "Google's Cybersecurity Course"**
+- 🌱 I’m currently learning **DevOps and web3**
 
 - 📫 How to reach me **www.linkedin.com/in/ayush-mati**
 
