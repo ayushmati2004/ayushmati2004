@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ayush Mati</h1>
-<h3 align="center">A passionate Android developer , Cyber-Security Analyst from India</h3>
+<h3 align="center">Expierence in  Android development , DevOps , Web3 Engineer , AI/ML </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmati2004&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmati2004" /> </p>
 
