@@ -13,5 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmati2004&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
+---
+
+![Snake Animation](https://raw.githubusercontent.com/00Manas-Singh00/00Manas-Singh00/main/output/snake.svg)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
